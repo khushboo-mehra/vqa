@@ -1,0 +1,1 @@
+{"nodes": [{"y": 171, "x": 423, "size": 3, "id": "Doll08_0", "label": "person"}, {"y": 326, "x": 417, "size": 3, "id": "Rug_0", "label": "Rug"}, {"y": 89, "x": 618, "size": 3, "id": "Window05_0", "label": "Window"}, {"y": 314, "x": 296, "size": 5, "id": "Footstool_0", "label": "Footstool"}], "edges": [{"source": "Doll08_0", "label": "above", "id": 0, "target": "Rug_0"}]}
